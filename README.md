@@ -1,6 +1,6 @@
 <img src = "banner.gif" width = "325px" align = "right">
 
-# ❤ Olá, bom ter você por aqui!
+# Olá, seja bem vindo!
   <div id="badges">
   <a href = "https://www.linkedin.com/in/lucasflorindosouza/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -22,6 +22,6 @@ Sou estudante de ciência e tecnologia e ciência da computação e atualmente s
 
 
 <div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfloza&show_icons=true&theme=bear&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=lucasfloza&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfloza&show_icons=true&theme=github_dark_dimmed&count_private=true"/>
+<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=lucasfloza&show_icons=true&show_icons=true&theme=github_dark_dimmed&count_private=true" />
 </div>
