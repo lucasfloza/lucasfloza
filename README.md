@@ -1,4 +1,4 @@
-  <h2>Olá, seja bem vindo</h2> 
+  <h2>Olá, seja bem vindo!</h2> 
   <div id="badges">
   <a href = "https://www.linkedin.com/in/lucasflorindosouza/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
