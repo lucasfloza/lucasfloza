@@ -1,5 +1,3 @@
-<img src = "banner.gif" width = "325px" align = "right">
-
 # Olá, seja bem vindo!
   <div id="badges">
   <a href = "https://www.linkedin.com/in/lucasflorindosouza/">
