@@ -1,4 +1,4 @@
-Software engineering intern at the [Union Bank of Switzerland](https://www.linkedin.com/company/ubs/mycompany/verification/).
+Software engineer at the [Union Bank of Switzerland](https://www.linkedin.com/company/ubs/mycompany/verification/).
   
 <div id="badges">
   <a href = "https://www.linkedin.com/in/lucasflorindosouza/">
